@@ -48,7 +48,7 @@ img/
 
 ## How to use
 
-Open `discover-lebanon-b05.html` in any browser — no server needed for local use.
+Open `discover-b05.html` in any browser — no server needed for local use.
 
 For production, upload the HTML file and the `img/` folder to your web server or GitHub Pages.
 
