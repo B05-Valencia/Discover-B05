@@ -2,7 +2,7 @@
 
 A mobile-first photo guide for restaurant clients to browse dishes visually while ordering.
 
-**Live file:** `discover-lebanon-b05.html`
+**Live file:** `discover-b05.html`
 
 ---
 
